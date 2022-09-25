@@ -1,0 +1,2 @@
+# ChineseOpenDomainQuestionAnswering_InverseClozeTask_DeepLearning
+使用InverseClozeTask進行中文文章檢索研究
